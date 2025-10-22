@@ -1,0 +1,4 @@
+click
+pandas
+python-dotenv
+openai>=1.40.0
