@@ -1,4 +1,4 @@
-# Python Automation Toolkit (GPT-assisted)
+# Python Automation Toolkit
 
 Small, practical CLI with three commands:
 
